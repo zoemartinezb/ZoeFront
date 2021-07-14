@@ -1,0 +1,38 @@
+body {
+    margin: auto;
+    width: 80%;
+}
+.logo {
+    display: flex;
+    justify-content: center;
+    background-color: rgba(229, 229, 229, 1);
+}
+.footer {
+    text-align: center;
+    background-color: rgba(0, 86, 119, 1);
+}
+h1 {
+    background-color: rgba(196, 196, 196, 1);
+    letter-spacing: 0.3em;
+    text-align: center;
+    color: rgba(0, 86, 119, 1);
+}
+h2 {
+    letter-spacing: 0.1em;
+    color: rgba(0, 86, 119, 1);
+    background-color: rgba(196, 196, 196, 1);
+}
+spam {
+    font-weight: bold;
+}
+.name {
+    font-style: italic;
+}
+footer {
+    color: rgba(255, 255, 255, 1);
+    font-family: 'Times New Roman';
+    text-transform: uppercase;
+    letter-spacing: o.1em;
+    font-size: 20px;
+    line-height: 17px;
+}
